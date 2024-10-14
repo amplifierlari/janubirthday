@@ -1,6 +1,6 @@
 // Predefined username and password (You can change these)
-const predefinedUsername = "azgari";
-const predefinedPassword = "ahadwife";
+const predefinedUsername = "Azgariji";
+const predefinedPassword = "A15+A10=perfectcouple";
 
 // Add event listeners to create an interactive 3D effect
 const loginBox = document.querySelector('.login-box');
